@@ -7,5 +7,6 @@
 | SoccerManager | Менеджер футбольных лиг: лиги, клубы, логотипы, игроки | CSS / Web |
 | FM1.0 | Football Manager | Python |
 | Lab_02_cell-football | Лабораторная работа: SRS, мокапы | Kotlin |
+| FM_CF | Платёжные документы FM_CF (КФ, ФМ) | Docs |
 
 `laba1` — публичный форк `trtpo/laba1` (GitHub не позволяет делать форки приватными).
